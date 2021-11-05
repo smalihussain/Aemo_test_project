@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/AemoTestApi/apis/AemoApi",
+      "type": "apis.azure",
+      "apiEndpoint": "https://aemotestapi.azure-api.net/"
+    }
+  }
+}
